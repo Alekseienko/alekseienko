@@ -1,5 +1,9 @@
 ### Hi, I'm Volodymyr 👋
 
+If you'd like to get to know me better, here's my CV 👇 
+
+* [CV_Junior_IOS_Alekseienko Volodymymr.pdf](https://github.com/Alekseienko/alekseienko/files/11088352/CV_Junior_IOS_Alekseienko.Volodymymr.pdf)
+
 ## Skills
 
 * IOS SDK

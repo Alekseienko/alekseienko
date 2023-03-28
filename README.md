@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi, I'm Volodymyr 👋
 
+## Skills
 
-**Alekseienko/alekseienko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* IOS SDK
+* Swift
+* OOP
+* MVC
+* UIkit
+* Core Data
+* Networking / URLSession / REST API / JSON
+* AutoLayot
+* CocoaPods / Swift Package Manager 
+* GitHub
+* Figma
 
-Here are some ideas to get you started:
+## Socials 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/vvalekseienko)
 
+🎥 Watch my videos on YouTube (Coming Soon)
+
+## Stats 
+![Profile View Counter](https://komarev.com/ghpvc/?username=alekseienko-lu&style=for-the-badge)

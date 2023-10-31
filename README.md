@@ -12,8 +12,9 @@ If you'd like to get to know me better, here's my CV 👇
 * MVC
 * UIkit
 * Core Data
-* Networking / URLSession / REST API / JSON
-* AutoLayot
+* Networking / URLSession / REST API / JSON / XMLParser
+* Core Bluetooth
+* AutoLayot / Programmatically
 * CocoaPods / Swift Package Manager 
 * GitHub
 * Figma
